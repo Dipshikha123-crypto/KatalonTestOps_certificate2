@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Movies  TV</name>
+   <tag></tag>
+   <elementGuidId>1d934696-bad6-4e12-a0c4-83045443fd08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s-refinements']/div/ul/li[12]/span/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Movies &amp; TV&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4bf5b72b-31dc-44bf-918a-8fae6d02fb31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>58b39549-40ad-4500-a8c6-b7a10d779f68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Movies &amp; TV</value>
+      <webElementGuid>4958742e-3c9a-4d30-9a8e-f98f730eee2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s-refinements&quot;)/div[@class=&quot;a-section a-spacing-none&quot;]/ul[@class=&quot;a-unordered-list a-nostyle a-vertical a-spacing-medium&quot;]/li[@class=&quot;a-spacing-micro apb-browse-refinements-indent-2&quot;]/span[@class=&quot;a-list-item&quot;]/a[@class=&quot;a-color-base a-link-normal&quot;]/span[1]</value>
+      <webElementGuid>07310a5e-5ac2-46aa-94ab-ece6d528a323</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s-refinements']/div/ul/li[12]/span/a/span</value>
+      <webElementGuid>46c4853b-8d67-4829-8607-5ee64bae3dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Local'])[1]/following::span[2]</value>
+      <webElementGuid>f060d35a-5cb1-4775-b68c-899ed281f597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lifestyle'])[2]/following::span[4]</value>
+      <webElementGuid>67c9a5ff-7147-4a58-8f80-3827e0fa1d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Music &amp; Audio'])[1]/preceding::span[1]</value>
+      <webElementGuid>da35c57d-a31b-411c-b872-df1d9511b3af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[2]/preceding::span[3]</value>
+      <webElementGuid>621a172e-b614-45e0-9867-6c7d1db1bc20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Movies &amp; TV']/parent::*</value>
+      <webElementGuid>b8ef7910-48c9-4adc-9706-189f2aa29acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[12]/span/a/span</value>
+      <webElementGuid>0cb6bbf7-fb63-47c1-a5f6-d08cab669c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Movies &amp; TV' or . = 'Movies &amp; TV')]</value>
+      <webElementGuid>38913b01-c1ad-4eb9-b18a-a7a8670550ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

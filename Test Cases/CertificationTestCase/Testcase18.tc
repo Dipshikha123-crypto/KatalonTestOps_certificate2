@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Testcase18</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>16f65816-b99d-480f-8f6f-e3bfc13803be</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9430fe16-38ee-4027-b207-3a87163ad08e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'7908892985'</defaultValue>
+      <description></description>
+      <id>9430fe16-38ee-4027-b207-3a87163ad08e</id>
+      <masked>false</masked>
+      <name>Phone</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuit_Datadriven4</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>4125c3ea-f716-43bc-9246-057efbc6e211</testSuiteGuid>
+   <testCaseLink>
+      <guid>64006639-06c7-433c-a3c9-23126ce96ac8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>efc322c7-c8dd-4a35-b408-65ba7af95a21</id>
+         <masked>false</masked>
+         <name>gmail</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/CertificationTestCase/Testcase36</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a5f0864d-3f3c-4e9e-beea-8644f5d52476</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data4</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>a5f0864d-3f3c-4e9e-beea-8644f5d52476</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Textbox</value>
+         <variableId>78ba7664-c0c4-4adf-83f7-d31ffb321633</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a5f0864d-3f3c-4e9e-beea-8644f5d52476</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Mail</value>
+         <variableId>efc322c7-c8dd-4a35-b408-65ba7af95a21</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase7</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>641cc603-fa1f-4c15-a3c6-771d2e306726</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>66d11cd4-ee05-48d6-b1e4-e86f065f0e5c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1fc9e365-a070-4d5b-9c56-eb86912083a1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'7908892985'</defaultValue>
+      <description></description>
+      <id>66d11cd4-ee05-48d6-b1e4-e86f065f0e5c</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345678'</defaultValue>
+      <description></description>
+      <id>1fc9e365-a070-4d5b-9c56-eb86912083a1</id>
+      <masked>true</masked>
+      <name>pwd</name>
+   </variable>
+</TestCaseEntity>
