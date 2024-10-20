@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_About Amazon</name>
+   <tag></tag>
+   <elementGuidId>2f8be298-bf89-4c29-ac22-3753f1fdefe7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav_a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navFooter']/div/div/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;About Amazon&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8ce71628-c8bf-4faf-9ee3-de156a6e428d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.aboutamazon.in/?utm_source=gateway&amp;utm_medium=footer</value>
+      <webElementGuid>6e639352-3808-490c-8141-1c61c16a0e68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav_a</value>
+      <webElementGuid>8474f53f-8af7-42ee-8706-0d801b334603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>About Amazon</value>
+      <webElementGuid>1f775524-d7a6-44f1-85dd-0641b86e8765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navFooter&quot;)/div[@class=&quot;navFooterVerticalColumn navAccessibility&quot;]/div[@class=&quot;navFooterVerticalRow navAccessibility&quot;]/div[@class=&quot;navFooterLinkCol navAccessibility&quot;]/ul[1]/li[@class=&quot;nav_first&quot;]/a[@class=&quot;nav_a&quot;]</value>
+      <webElementGuid>d1dd085d-c66b-4290-af9c-32a9e94a2c09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navFooter']/div/div/div/ul/li/a</value>
+      <webElementGuid>d608da5a-5c79-40af-9790-d4ae7731d5e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'About Amazon')]</value>
+      <webElementGuid>321c68a0-8e2b-4889-92db-4f37a366e234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get to Know Us'])[1]/following::a[1]</value>
+      <webElementGuid>529788b4-a4cb-4500-80ca-2f08c067d39b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to top'])[1]/following::a[1]</value>
+      <webElementGuid>d683c445-26dd-423e-8c18-97860e1eabc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Careers'])[1]/preceding::a[1]</value>
+      <webElementGuid>bd55da73-dd70-483b-8d13-605c55e85121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Press Releases'])[1]/preceding::a[2]</value>
+      <webElementGuid>f22f9b94-ba9d-486a-9665-5f0fe5c2f54a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='About Amazon']/parent::*</value>
+      <webElementGuid>bc7b5d43-63be-490f-bb32-f18fa29a78fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.aboutamazon.in/?utm_source=gateway&amp;utm_medium=footer')]</value>
+      <webElementGuid>ae5e56a5-a8f5-4296-b304-5564eea7a537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>470c00b7-b5c9-4b66-af5d-6f8567c82882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.aboutamazon.in/?utm_source=gateway&amp;utm_medium=footer' and (text() = 'About Amazon' or . = 'About Amazon')]</value>
+      <webElementGuid>9e85b4e8-999a-4609-829f-98014816d61c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

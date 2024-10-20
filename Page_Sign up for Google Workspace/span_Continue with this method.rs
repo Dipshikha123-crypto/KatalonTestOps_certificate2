@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue with this method</name>
+   <tag></tag>
+   <elementGuidId>1291badd-023b-4622-af8b-0935737c132c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/c-wiz/div/div/div[2]/main/div/div/nav/span/div/button/span[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.UywwFc-vQzf8d</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Continue with this method&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>16f1acdd-9e7d-47ee-a77a-534f20b0845c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>V67aGc</value>
+      <webElementGuid>c6e89c66-5294-4a19-a3d2-e0eccd51e16c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>UywwFc-vQzf8d</value>
+      <webElementGuid>d9d160c2-c0fa-4244-8c44-515fb8d3b496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue with this method</value>
+      <webElementGuid>abadf441-491f-459a-8303-9da92df61b64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb&quot;]/div[@class=&quot;kFwPee&quot;]/div[@class=&quot;UGWmof&quot;]/main[@class=&quot;ERBVh&quot;]/div[@class=&quot;lofXRd&quot;]/div[1]/nav[@class=&quot;w3Bmi zUInBc AXVZWc&quot;]/span[@class=&quot;s1Aogd&quot;]/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/button[@class=&quot;UywwFc-LgbsSe UywwFc-LgbsSe-OWXEXe-dgl2Hf UywwFc-GqqPG-wdeprb-FoKg4d-dgl2Hf-ppHlrf cQMs1 lbXPu RZu4Hd&quot;]/span[@class=&quot;UywwFc-vQzf8d&quot;]</value>
+      <webElementGuid>4ef67ae0-8924-4ae3-a879-9ccdc045d41d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/c-wiz/div/div/div[2]/main/div/div/nav/span/div/button/span[6]</value>
+      <webElementGuid>c9d943ee-9653-4d07-82e5-ae53c27257a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use the domain you already own'])[1]/following::span[10]</value>
+      <webElementGuid>2e3bafe6-000c-4618-807a-65a75287f4ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set up using your existing domain'])[1]/following::span[10]</value>
+      <webElementGuid>c4eaecee-e6e1-43e1-9978-39e098aec4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::span[12]</value>
+      <webElementGuid>6c4b66b0-f182-4895-8b88-3878beb899ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::span[18]</value>
+      <webElementGuid>50eb9d92-0e2e-4ea4-9315-23c73dd2c1ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue with this method']/parent::*</value>
+      <webElementGuid>0040561f-87ac-4330-ba06-28ddeea6a2cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[6]</value>
+      <webElementGuid>755e1f06-0067-4b7c-b1f3-69e798114e9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue with this method' or . = 'Continue with this method')]</value>
+      <webElementGuid>6872d792-ad27-4c4b-9cdf-86b137cafea5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

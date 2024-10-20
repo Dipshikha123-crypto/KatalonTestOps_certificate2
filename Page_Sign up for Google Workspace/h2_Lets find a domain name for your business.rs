@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Lets find a domain name for your business</name>
+   <tag></tag>
+   <elementGuidId>110a22a0-5f7a-4cd8-8e24-f2b6b2e4e8ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/c-wiz/div/div/div[2]/main/div/div/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.zN6fgb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Let's find a domain name for your business&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>4bfb6826-26ab-40fe-951d-5b3f39c19b21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zN6fgb</value>
+      <webElementGuid>37f66d42-9a5b-4c19-b066-c8a05844f889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Let's find a domain name for your business</value>
+      <webElementGuid>a192dad7-77ba-4c18-9521-158f09110579</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb&quot;]/div[@class=&quot;kFwPee&quot;]/div[@class=&quot;UGWmof&quot;]/main[@class=&quot;ERBVh&quot;]/div[@class=&quot;lofXRd&quot;]/div[@class=&quot;jV95ae&quot;]/div[@class=&quot;Y1VoSd&quot;]/div[@class=&quot;ysWP1e&quot;]/div[@class=&quot;bSMII JpoNde&quot;]/h2[@class=&quot;zN6fgb&quot;]</value>
+      <webElementGuid>903eb321-5eea-475c-9a46-acbec96871b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/c-wiz/div/div/div[2]/main/div/div/div/div/div/h2</value>
+      <webElementGuid>b25b95cd-8eb9-4f19-aa03-473445177c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='example.com'])[1]/preceding::h2[1]</value>
+      <webElementGuid>bec02246-6c0f-40c9-ab30-dd2c0d66c18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='example.com'])[2]/preceding::h2[1]</value>
+      <webElementGuid>e215b692-ed38-44a9-a716-53a8c40a399d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>bc3e463e-6560-45b8-a19f-992fbd0a0145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = concat(&quot;Let&quot; , &quot;'&quot; , &quot;s find a domain name for your business&quot;) or . = concat(&quot;Let&quot; , &quot;'&quot; , &quot;s find a domain name for your business&quot;))]</value>
+      <webElementGuid>e69dfa5d-b123-42cd-837b-e4ef18604c72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Username  AdminPassword  admin123   Ora_4f3eb5</name>
+   <tag></tag>
+   <elementGuidId>dbe8f8b3-a34d-4a0a-9a03-bc1b84bfe278</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-login-slot</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;登录Username : AdminPassword : admin123用户名密码 登录 忘了密码? OrangeHRM OS 5.7© 2005 - 202&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d1cba3dc-c55b-4576-a19f-5530588ae3be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-login-slot</value>
+      <webElementGuid>5afdb416-d5e4-4cc8-82ac-ea76300d8020</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>登录Username : AdminPassword : admin123用户名密码 登录 忘了密码? OrangeHRM OS 5.7© 2005 - 2024 OrangeHRM, Inc. All rights reserved.</value>
+      <webElementGuid>20aef8ff-5619-46e4-81e7-8003320870bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-login-layout&quot;]/div[@class=&quot;orangehrm-login-layout-blob&quot;]/div[@class=&quot;orangehrm-login-container&quot;]/div[@class=&quot;orangehrm-login-slot-wrapper&quot;]/div[@class=&quot;orangehrm-login-slot&quot;]</value>
+      <webElementGuid>c81a5896-f9f1-443f-adc3-c6806594c032</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div[2]</value>
+      <webElementGuid>0912a0fc-f908-4325-a0c4-2ef8dd9f07e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]</value>
+      <webElementGuid>5afed0b6-ada0-4a97-968a-a3687b67ee0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '登录Username : AdminPassword : admin123用户名密码 登录 忘了密码? OrangeHRM OS 5.7© 2005 - 2024 OrangeHRM, Inc. All rights reserved.' or . = '登录Username : AdminPassword : admin123用户名密码 登录 忘了密码? OrangeHRM OS 5.7© 2005 - 2024 OrangeHRM, Inc. All rights reserved.')]</value>
+      <webElementGuid>8a466bed-de69-4d54-9bdd-e029ea902356</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
