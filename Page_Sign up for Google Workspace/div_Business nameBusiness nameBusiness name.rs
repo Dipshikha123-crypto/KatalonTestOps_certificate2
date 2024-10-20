@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Business nameBusiness nameBusiness name</name>
+   <tag></tag>
+   <elementGuidId>910938ab-0d14-4428-82c4-49e1c9c3c9d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/c-wiz/div/div/div[2]/main/div/div/div/section/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.qdOxv-fmcmS-yrriRe.qdOxv-fmcmS-yrriRe-OWXEXe-INsAgc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Business nameBusiness nameBusiness name$/ >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d5ee41f7-55a9-4c11-bf2a-541dfbd4501d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsaction</name>
+      <type>Main</type>
+      <value>click:cOuCgd; keydown:I481le</value>
+      <webElementGuid>66badb99-f4d8-4a08-ba37-5794870a8b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>vhZMvf</value>
+      <webElementGuid>98905ddc-ced0-484d-8785-e02020744395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qdOxv-fmcmS-yrriRe qdOxv-fmcmS-yrriRe-OWXEXe-INsAgc</value>
+      <webElementGuid>df0d6354-be75-4599-9da8-958601ccc44d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Business nameBusiness nameBusiness name</value>
+      <webElementGuid>b79f97c4-51f8-45c3-a923-b767700e7795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb&quot;]/div[@class=&quot;kFwPee&quot;]/div[@class=&quot;UGWmof&quot;]/main[@class=&quot;ERBVh&quot;]/div[@class=&quot;lofXRd&quot;]/div[@class=&quot;ROQ8qd&quot;]/div[@class=&quot;E9Cg7e&quot;]/section[@class=&quot;TEbSVb&quot;]/div[2]/div[@class=&quot;qdOxv-fmcmS-yrriRe-OWXEXe-H9tDt iwVr2d&quot;]/div[@class=&quot;qdOxv-fmcmS-yrriRe qdOxv-fmcmS-yrriRe-OWXEXe-INsAgc&quot;]</value>
+      <webElementGuid>4ef8a854-1e5b-4b01-9662-8d99dfdeb2ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/c-wiz/div/div/div[2]/main/div/div/div/section/div[2]/div/div</value>
+      <webElementGuid>318c5e50-0a47-40d0-91a2-3ac9a7cd8305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='India'])[1]/preceding::div[28]</value>
+      <webElementGuid>7f58ef68-aaa1-4698-8057-eee7bee07145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>edf2ec85-680c-4388-88a1-d702ea8fbb45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Business nameBusiness nameBusiness name' or . = 'Business nameBusiness nameBusiness name')]</value>
+      <webElementGuid>21e1e0fd-2b90-41f5-821d-29a84626c833</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

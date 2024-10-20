@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_arrow_forward (1)</name>
+   <tag></tag>
+   <elementGuidId>c11855bf-7820-4ebf-ac52-9a7908aeb791</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/c-wiz/div/div/div/div[2]/div/div/div/div/div[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.google-material-icons.giSqbe.fqWlM</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;I'm a business owner or IT administrator Set up a new Workspace account for your business&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f29b25da-5ecc-4bbb-8d95-2c4a4921fd7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>google-material-icons giSqbe fqWlM</value>
+      <webElementGuid>1e6bb77c-ce4a-4e8c-9c35-5588a296bb0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fecb1b76-5997-4590-9a2e-e7dbf7d06164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>arrow_forward</value>
+      <webElementGuid>391fca2d-a13b-4b35-bc24-c69f2f356797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb&quot;]/div[@class=&quot;kFwPee&quot;]/div[@class=&quot;XwnsH&quot;]/div[@class=&quot;B2pPje&quot;]/div[@class=&quot;K4vxLd-WsjYwc LJdJje&quot;]/div[@class=&quot;K4vxLd-aGsRMb&quot;]/div[@class=&quot;d5NbRd-EScbFb-JIbuQc&quot;]/div[@class=&quot;d8Thnd&quot;]/div[@class=&quot;wwyXq&quot;]/i[@class=&quot;google-material-icons giSqbe fqWlM&quot;]</value>
+      <webElementGuid>85cd5835-c2d3-4950-bc10-44058c3123c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/c-wiz/div/div/div/div[2]/div/div/div/div/div[2]/i</value>
+      <webElementGuid>091db1e3-fd70-473b-8a8b-2df4fc435bee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set up a new Workspace account for your business'])[1]/following::i[1]</value>
+      <webElementGuid>09936398-4778-4bd6-bb59-8705bb01edf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use your work-provided email to sign up for Workspace at no cost'])[1]/preceding::i[1]</value>
+      <webElementGuid>a86fb7e8-f594-4e2e-8850-fed60fd70b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='arrow_forward']/parent::*</value>
+      <webElementGuid>b155997b-d422-467e-ad4c-1c5aa1119ebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>51829f2c-99a7-46bd-8dd1-c4ae900dd516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'arrow_forward' or . = 'arrow_forward')]</value>
+      <webElementGuid>685eda1e-0322-48cf-936c-514e6790b40e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
